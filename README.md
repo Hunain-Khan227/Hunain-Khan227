@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Muhammad Hunain 👋</h1>
-<h3 align="center">HTML & CSS & Java Beginner</h3>
+<h3 align="center">HTML & CSS </h3>
 
 ---
 
 ### About Me
 
-- 🌱 I'm currently learning **HTML** and **CSS**, and now starting **Java**
+- 🌱 I'm currently learning **HTML** and **CSS**
 - 🧑‍🎓 Part of the **SMIT Program** for tech education
 - 📚 Exploring the world of **Web Development**
 - 🚀 Motivated to improve and grow every day
